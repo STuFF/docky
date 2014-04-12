@@ -5,7 +5,7 @@ module.exports =  {
     server: {
         options: {
             port: 9000,
-            base: 'dist',
+            base: 'build',
             open: true
         }
     }
