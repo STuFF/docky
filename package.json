@@ -1,0 +1,17 @@
+{
+  "name": "Docky",
+  "version": "0.8.0",
+  "description": "Docky est le nom de code d'un mystérieux projet qui propose une application interactive et embarquée, ciblée sur l’apprentissage des plus jeunes.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/github.com/simpleit/docky.git"
+  },
+  "author": "OpenClassrooms (ex Site du Zero)",
+  "license": "GNU GPL",
+  "devDependencies": {
+    "grunt": "~0.4.4"
+  }
+}
