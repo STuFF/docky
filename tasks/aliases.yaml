@@ -1,0 +1,11 @@
+default:
+    - 'build'
+    - 'serve'
+    - 'watch'
+
+build:
+    - 'clean:build'
+    - 'copy:build'
+
+serve:
+    - 'connect'
